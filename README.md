@@ -1,2 +1,2 @@
-# Prueba--1
-El primero 
+# Prueba-1
+Este es mi primer repositorio de GitHub. ¡Estoy aprendiendo a usar GitHub!
