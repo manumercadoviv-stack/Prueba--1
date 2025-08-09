@@ -1,1 +1,2 @@
 - Esta línea la agregué en la rama experimentos.
+- - Esta nota la añadí desde mi celular.
